@@ -6,5 +6,6 @@ Yüklemiş olduğum görseller, powerbı da kullandığım arkafondur.
 interaktif geçiş yapmak istiyorsanız, ctrl+ istediğiniz sekme'ye (bölge satış ihtiyaç kredisi) tıklamanız yeterli olacaktır. 
 
 English
+
 It is a project analyzed and visualized by powerbi, which includes housing, automobile, consumer loans and targets of x bank.
 It is an interactive project so it works on excel by clicking with the Ctrl key.
